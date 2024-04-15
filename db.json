@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "roll": "102",
+      "name": "Mangal",
+      "marks": "92",
+      "id": 1
+    },
+    {
+      "roll": "101",
+      "name": "Ravindra",
+      "marks": "91",
+      "id": 2
+    },
+    {
+      "roll": "103",
+      "name": "Ravi",
+      "marks": "93",
+      "id": 3
+    },
+    {
+      "roll": "104",
+      "name": "Nishant",
+      "marks": "93",
+      "id": 4
+    }
+  ]
+}
